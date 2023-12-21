@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sushmita-07
+- 👋 Hi, I’m Sushmita Pujari
 - 👀 I’m interested in Data Science | Machine Learning
 - 🌱 I’m currently learning R Basics
 - 📫 How to reach me sushmita.pujari07@gmail.com
