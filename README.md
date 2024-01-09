@@ -1,4 +1,4 @@
-##👋 Hi there
+### Hi there 👋
 -  ![Profile views](https://komarev.com/ghpvc/?username=Sushmita-07&color=967bb6)
 - 🌼 I’m Sushmita Pujari
 - 👀 I’m interested in Data Science | Machine Learning
